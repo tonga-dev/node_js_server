@@ -1,0 +1,13 @@
+* {
+    padding: 20px;
+    margin: 20px;
+}
+
+html,
+body {
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    color: #cdcdcd;
+    background-color: #333333;
+}
